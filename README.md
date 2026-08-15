@@ -1,15 +1,20 @@
 # AUTOMECHANICA Engine v4.0
 
-> **The Frontier AI Evaluation Matrix, Multi-Agent 3D Spatial Sandbox & Autonomous Megastructure Arena**
+> **Building next-generation training systems and reinforcement learning evaluation environments for frontier AI. Inspired by Mechanize!**  
+> *Engineered by [Magnus Drake](https://github.com/MagnusDrake)*
 
 [![Vite](https://img.shields.io/badge/Vite-6.4-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-18.0-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-r160-black?logo=three.js&logoColor=white)](https://threejs.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-MagnusDrake-181717?logo=github&logoColor=white)](https://github.com/MagnusDrake/automechanica-ai-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
 
 ---
 
 ## 🎯 Executive Mission & Origin
+
+> *"I am building advanced training systems and reinforcement learning evaluation environments for AI, inspired by the visionary work at Mechanize."*  
+> — **Magnus Drake**
 
 **AUTOMECHANICA** was engineered as a frontier technical demonstration pushing beyond conventional terminal-only and flat coding evaluations into **Embodied 3D Multi-Agent Spatial Reasoning & Generative World Simulation**.
 
@@ -61,7 +66,7 @@ See our complete [Creator Mission & Engineering Manifesto](./MISSION.md) documen
 ### Setup
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/automechanica-ai-engine.git
+git clone https://github.com/MagnusDrake/automechanica-ai-engine.git
 cd automechanica-ai-engine
 
 # 2. Install dependencies
@@ -78,6 +83,13 @@ npm run dev
 ```bash
 npm run build
 ```
+
+---
+
+## 👤 Author
+**Magnus Drake**  
+GitHub: [@MagnusDrake](https://github.com/MagnusDrake)  
+Project: [automechanica-ai-engine](https://github.com/MagnusDrake/automechanica-ai-engine)
 
 ---
 
